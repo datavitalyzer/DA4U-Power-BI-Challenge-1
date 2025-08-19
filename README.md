@@ -4,16 +4,29 @@ Welcome to the Candidate Data Analytics Challenge!
 This repository is designed to test and sharpen your **data transformation, cleaning, and analysis** skills using **Power BI**.
 
 You’ll work with both **structured** and **unstructured** versions of a dataset containing candidate application records.  
-Some files are clean, others contain anomalies — your task is to detect issues, transform the data, and create dashboards that reveal meaningful insights.
+Some files are clean, others contain anomalies, your task is to detect issues, transform the data, and create dashboards that reveal meaningful insights.
 
 
 ## 🎯 Challenge Overview
 
 For this challenge, you’ll:
-- 🔍 **Interrogate the data in depth:** Go beyond spotting surface‑level issues — investigate missing values, duplicates, inconsistent formatting, invalid entries, and unusual patterns that might affect interpretation.  
-- 🛠️ **Transform and model with purpose:** Normalize, clean, and reshape using Power Query & DAX — ensuring your model supports complex analysis and storytelling.  
+- 🔍 **Interrogate the data in depth:** Go beyond spotting surface‑level issues, investigate missing values, duplicates, inconsistent formatting, invalid entries, and unusual patterns that might affect interpretation.  
+- 🛠️ **Transform and model with purpose:** Normalize, clean, and reshape using Power Query & DAX, ensuring your model supports complex analysis and storytelling.  
 - 📊 **Extract and communicate insights:** Build interactive dashboards and a concise analytical report that not only addresses the key analysis areas (temporal, geographic, demographic, etc.) but also uncovers hidden trends, anomalies, and correlations, with clear suggestions for their potential impact.  
 
+## 📁 Dataset Overview
+
+This dataset contains candidate application records collected from a digital platform. Each row includes:
+
+- Registration timestamp
+- Candidate ID
+- Name and surname
+- Birthdate and gender
+- Contact details (phone, email)
+- Region and city
+- Professional experience
+- Career objectives
+- Current situation
 
 ## 💡 Tips for Success
 
