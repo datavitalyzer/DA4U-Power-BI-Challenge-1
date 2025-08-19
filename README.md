@@ -6,7 +6,6 @@ This repository is designed to test and sharpen your **data transformation, clea
 You’ll work with both **structured** and **unstructured** versions of a dataset containing candidate application records.  
 Some files are clean, others contain anomalies — your task is to detect issues, transform the data, and create dashboards that reveal meaningful insights.
 
----
 
 ## 🎯 Challenge Overview
 
@@ -15,7 +14,6 @@ For this challenge, you’ll:
 - 🛠️ **Transform and model with purpose:** Normalize, clean, and reshape using Power Query & DAX — ensuring your model supports complex analysis and storytelling.  
 - 📊 **Extract and communicate insights:** Build interactive dashboards and a concise analytical report that not only addresses the key analysis areas (temporal, geographic, demographic, etc.) but also uncovers hidden trends, anomalies, and correlations, with clear suggestions for their potential impact.  
 
----
 
 ## 💡 Tips for Success
 
@@ -25,7 +23,6 @@ For this challenge, you’ll:
 - Think like an analyst — what story is the data trying to tell?  
 - Document your process so others can learn from your approach  
 
----
 
 ## 🚀 Getting Started
 
@@ -37,7 +34,6 @@ For this challenge, you’ll:
 6. Build your dashboards for each insight category  
 7. Document your findings and submit your `.pbix` file  
 
----
 
 ## 💬 Feedback & Collaboration
 
@@ -45,14 +41,12 @@ Found a smarter solution?
 Want to share your dashboard?  
 Open an **issue** or submit a **pull request** to share your improvements with the community.
 
----
 
 ## 📚 License
 
 This project is open for educational and non-commercial use.
 Open the file [License](LICENSE.md) for more details.
 
----
 
 ## 📬 Stay Connected
 
